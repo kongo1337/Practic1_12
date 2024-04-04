@@ -5,9 +5,6 @@
 
 package com.mycompany.practical1_12_individual;
 
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.ObjectOutputStream;
 import java.util.Scanner;
 
 /**
@@ -18,6 +15,8 @@ public class Practical1_12_Individual {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        
+        System.out.print("Работа выполненан Быстровым К.В.  ");
 
         System.out.println("Введите данные о враче:");
 
